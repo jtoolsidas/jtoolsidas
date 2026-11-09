@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jaahnvi Toolsidas! 👋
 
-<!--
-**jtoolsidas/jtoolsidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Georgia Institute of Technology** passionate about building impactful software and AI-powered applications. My interests lie in **software engineering, artificial intelligence, and human-centered technology**, with a focus on developing accessible, intuitive solutions to real-world problems.
 
-Here are some ideas to get you started:
+I'm particularly interested in applying machine learning and full-stack development to create technology that bridges technical innovation with human needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Interests
+- Software Engineering & Full-Stack Development
+- Artificial Intelligence & Machine Learning
+- Human-Computer Interaction (HCI)
+- Responsible AI & Human-AI Interaction
+
+### 🛠️ Tech Stack
+**Languages:** Python, Java, JavaScript, TypeScript, R
+
+**Frameworks & Tools:** React, Django, Node.js, React Native, PyTorch, Pandas, NumPy, Git
+
+### 📫 Let's Connect!
+I'm always excited to collaborate, explore new technologies, and build meaningful projects.
+
