@@ -17,4 +17,6 @@ I'm particularly interested in applying machine learning and full-stack developm
 
 ### 📫 Let's Connect!
 I'm always excited to collaborate, explore new technologies, and build meaningful projects.
+My email is: jtoolsidas@gmail.com
+My LinkedIn is: https://www.linkedin.com/in/jaahnvi-toolsidas/
 
