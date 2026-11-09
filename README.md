@@ -20,3 +20,9 @@ I'm always excited to collaborate, explore new technologies, and build meaningfu
 My email is: jtoolsidas@gmail.com
 My LinkedIn is: https://www.linkedin.com/in/jaahnvi-toolsidas/
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtoolsidas&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jtoolsidas&layout=compact&theme=default)
+
