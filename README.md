@@ -21,5 +21,5 @@ My email is: jtoolsidas@gmail.com
 My LinkedIn is: https://www.linkedin.com/in/jaahnvi-toolsidas/
 
 ### 📊 GitHub Stats
-![Top Languages](https://api.gitwidgets.dev/api?username=jtoolsidas&type=languages&theme=dark)
+<img src="https://api.gitwidgets.dev/api?username=jtoolsidas&type=languages&theme=dark" alt="Top Languages" />
 
