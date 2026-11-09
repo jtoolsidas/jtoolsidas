@@ -21,5 +21,8 @@ My email is: jtoolsidas@gmail.com
 My LinkedIn is: https://www.linkedin.com/in/jaahnvi-toolsidas/
 
 ### 📊 GitHub Stats
-<img src="https://api.gitwidgets.dev/api?username=jtoolsidas&type=languages&theme=dark" alt="Top Languages" />
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtoolsidas&theme=jolly)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtoolsidas&theme=jolly)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jtoolsidas&theme=jolly)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jtoolsidas&theme=jolly)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jtoolsidas&theme=jolly&utcOffset=0)
